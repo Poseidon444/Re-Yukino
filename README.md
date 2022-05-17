@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/yukino-org/media/blob/main/images/subbanners/gh-kazahana-banner.png?raw=true">
+    <img src="https://github.com/Poseidon444/Re-Yukino/blob/main/media/large.png?raw=true">
 </p>
 
 # Re:Yukino
